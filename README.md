@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @docioban
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on flutter projects
+- 📫 dorinciobanu17@gmail.com
