@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @docioban
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 I’m interested in Game Dev
+- 🌱 I’m currently learning Unity
+- 💞️ I’m looking to collaborate on Unity projects
 - 📫 dorinciobanu17@gmail.com
